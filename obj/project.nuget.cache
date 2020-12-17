@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJDiFto15PURTQV/M0y3IYhzvJwZI8tJMg2qTdk2EbNxp/4K3DNfPTifCid+tiDTsqPtoV4o1z5ZEZxqZhr2tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\exceptions_2\\exceptions_2\\exceptions_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
